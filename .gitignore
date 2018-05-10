@@ -99,3 +99,13 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# notebooks
+*.ipynb
+
+# data folder
+data
+
+# files
+input/pas2_header_file.csv
+input/sample_date_parse.txt
